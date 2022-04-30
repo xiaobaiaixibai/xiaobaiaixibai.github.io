@@ -11,7 +11,7 @@ address: 中国-重庆-渝北区
 copyright: Copyright &copy; 2022 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: 首页, link: '/index'}
+- {name: 首页, link: '/'}
 - {name: 关于, link: '/about'}
 - {name: 博客, link: '/blog'}
 - {name: 更多, link: '/portfolio'}
