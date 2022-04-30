@@ -94,7 +94,7 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: 知识储备
 skills:
 - {name: Web Design, color: '#fdb157', value: '90%'}
 - {name: Logo Design, color: '#9473e6', value: '60%'}
@@ -105,7 +105,7 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: 获奖情况
 experience:
 - {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
 - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
@@ -115,7 +115,7 @@ experience:
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: 教育背景
 education:
 - {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
 - {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
