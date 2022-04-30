@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: 小白爱洗白的博客
+title: 小白爱洗白
 logo: 
 author: themefisher
 description: this is meta description
@@ -12,8 +12,8 @@ copyright: Copyright &copy; 2022 Designed by [Themefisher](https://themefisher.c
 
 menu:
 - {name: 首页, link: '/'}
-- {name: 关于, link: '/about'}
 - {name: 博客, link: '/blog'}
+- {name: 关于, link: '/about'}
 - {name: 更多, link: '/portfolio'}
 
 
@@ -39,7 +39,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi!<br>欢迎来到<br>我的博客
+  hero-title: 你好!<br>欢迎来到<br>我的主页
 
 social:
 - {icon: "ti-facebook", link: "#"}
