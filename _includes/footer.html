@@ -19,6 +19,9 @@
         </div>
     </div>
     <div class="border-top text-center border-dark py-5">
+		本站总访问量<span id="busuanzi_value_site_pv"></span>次
+		本站访客数<span id="busuanzi_value_site_uv"></span>人次
+		本文总阅读量<span id="busuanzi_value_page_pv"></span>次
         <p class="mb-0 text-light">{{site.data.settings.copyright | markdownify}}</p>
     </div>
 </footer>
@@ -32,3 +35,4 @@
 
 <!-- Main Script -->
 <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
