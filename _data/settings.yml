@@ -42,10 +42,8 @@ hero:
   hero-title: 你好!<br>欢迎来到<br>我的世界
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-github", link: "https://github.com/xiaobaiaixibai"}
+- {icon: "ti-stack-overflow", link: "https://stackoverflow.com/users/18403869/%e5%88%98%e5%b0%8f%e7%99%bd"}
 
 
 #-------------------------------
