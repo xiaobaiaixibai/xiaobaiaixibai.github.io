@@ -119,8 +119,8 @@ education-title: 教育背景
 education:
 - {name: 重庆市暨华中学, date: '2013-2019', organization: 'high school'}
 - {name: 重庆理工大学, date: '2019-2023', organization: 'university'}
-- {name: 未来无线可能, date: 'future', organization: 'Future wireless possibilities'}
-- {name: 未来无线可能, date: 'future', organization: 'Future wireless possibilities'}
+- {name: 未来无限可能, date: 'future', organization: 'Future wireless possibilities'}
+- {name: 未来无限可能, date: 'future', organization: 'Future wireless possibilities'}
 
 
 #-------------------------------
