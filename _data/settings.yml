@@ -8,7 +8,7 @@ description: this is meta description
 email: 1024733653@qq.com
 name: Dongling Liu
 address: 中国-重庆-渝北区
-copyright: Copyright &copy; 2022 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2022 Theme based on [Themefisher](https://themefisher.com)
 
 menu:
 - {name: 首页, link: '/'}
@@ -92,7 +92,7 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: 知识储备
+skills-title: 知识体系
 skills:
 - {name: Python, color: '#fdb157', value: '90%'}
 - {name: C, color: '#bdecf6', value: '80%'}
@@ -103,7 +103,7 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: 获奖情况
+experience-title: 部分获奖情况
 experience:
 - {name: 美国数学建模三等奖, icon: 'icon-1.png', date: 'Apr 2021', organization: '国家级'}
 - {name: 重庆市数据库大赛三等奖, icon: 'icon-2.png', date: 'Jun 2021', organization: '市级'}
