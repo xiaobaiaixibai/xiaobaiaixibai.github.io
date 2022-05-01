@@ -53,10 +53,10 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    我是一名计科专业的在校大学生，一个菜鸡coder，在学习之余搭建此网站。
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: 了解更多
 
 
 # About Page
@@ -96,10 +96,10 @@ team:
 
 skills-title: 知识储备
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Python, color: '#fdb157', value: '90%'}
+- {name: C, color: '#bdecf6', value: '80%'}
+- {name: machine learning, color: '#ffbcaa', value: '60%'}
+- {name: Web, color: '#9473e6', value: '40%'}
 
 
 #-------------------------------
@@ -107,9 +107,9 @@ skills:
 
 experience-title: 获奖情况
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: 美国数学建模三等奖, icon: 'icon-1.png', date: 'Apr 2021', organization: '国家级'}
+- {name: 重庆市数据库大赛三等奖, icon: 'icon-2.png', date: 'Jun 2021', organization: '市级'}
+- {name: 重庆市普通高等教育创新能力提升先进个人, icon: 'icon-3.png', date: 'Apr 2022', organization: '市级'}
 
 
 #-------------------------------
@@ -117,10 +117,10 @@ experience:
 
 education-title: 教育背景
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: 重庆市暨华中学, date: '2013-2019', organization: 'high school'}
+- {name: 重庆理工大学, date: '2019-2023', organization: 'university'}
+- {name: 未来无线可能, date: 'future', organization: 'Future wireless possibilities'}
+- {name: 未来无线可能, date: 'future', organization: 'Future wireless possibilities'}
 
 
 #-------------------------------
